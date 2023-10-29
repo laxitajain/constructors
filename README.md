@@ -1,2 +1,2 @@
 # constructors
-working with constructors in cpp
+**codes demonstrating polymorphism and inheritance in cpp**
